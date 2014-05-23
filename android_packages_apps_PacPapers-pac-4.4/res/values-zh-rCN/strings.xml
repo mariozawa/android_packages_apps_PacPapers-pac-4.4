@@ -1,0 +1,39 @@
+<resources>
+<!--
+  Copyright (C) 2014 PAC-man ROM
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+    <string name="app_name">PAC-man 壁纸</string>
+    <string name="title_activity_wallpaper">Pac 壁纸</string>
+    <string name="back">上一页</string>
+    <string name="next">下一页</string>
+    <string name="page">页： </string>
+    <string name="set_wallpaper">设为壁纸</string>
+    <string name="save_wallpaper">保存到存储</string>
+    <string name="downloading">下载中…</string>
+    <string name="wait">请稍等</string>
+    <string name="set">壁纸已设置！</string>
+    <string name="saved">壁纸已保存到</string>
+    <string name="jump">跳转到页</string>
+    <string name="jump2">跳转到页：</string>
+    <string name="about">关于</string>
+    <string name="wars">壁纸大战</string>
+    <string name="vote">投票！</string>
+    <string name="wallpaper">壁纸</string>
+    <string name="setting_wallpaper">正在设置壁纸…</string>
+    <string name="saving_wallpaper">正在保存壁纸…</string>
+    <string name="category_name">类别名称</string>
+    <string name="choose_category">选择类别</string>
+
+</resources>
